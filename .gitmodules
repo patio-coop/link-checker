@@ -14,3 +14,7 @@
 	path = submodules/tools/github-artifact-viewer
 	url = git@github.com:tng-coop/github-artifact-viewer.git
 	branch = main
+[submodule "submodules/reports/knowledge_nexus"]
+	path = submodules/reports/knowledge_nexus
+	url = git@github.com:patio-coop/knowledge_nexus.git
+	branch = main
